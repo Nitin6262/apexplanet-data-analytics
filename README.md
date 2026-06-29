@@ -22,6 +22,3 @@ This repository contains all tasks completed during the ApexPlanet Data Analytic
 - SciPy
 - Power BI
 - Jupyter Notebook
-
-## Project Structure
-# apexplanet-data-analytics
